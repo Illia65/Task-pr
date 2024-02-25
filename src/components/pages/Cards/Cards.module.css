@@ -1,0 +1,8 @@
+.users {
+	display: flex;
+	justify-content: center;
+	align-items: flex-start;
+	margin-top: 2rem;
+	gap: 1.3rem;
+	flex-wrap: wrap;
+}

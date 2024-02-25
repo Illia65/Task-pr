@@ -1,0 +1,301 @@
+{
+	"users": [
+		{
+			"id": "10",
+			"projectId": 42,
+			"firstName": "Maris",
+			"lastName": "Key",
+			"disabled": 0
+		},
+		{
+			"id": "18",
+			"projectId": 1,
+			"firstName": "Jack",
+			"lastName": "Snake",
+			"disabled": 1
+		},
+		{
+			"id": "19",
+			"projectId": 2,
+			"firstName": "Alice",
+			"lastName": "Smith",
+			"disabled": 0
+		},
+		{
+			"id": "20",
+			"projectId": 3,
+			"firstName": "Bob",
+			"lastName": "Johnson",
+			"disabled": 0
+		},
+		{
+			"id": "21",
+			"projectId": 4,
+			"firstName": "Eva",
+			"lastName": "Williams",
+			"disabled": 0
+		},
+		{
+			"id": "22",
+			"projectId": 5,
+			"firstName": "Max",
+			"lastName": "Brown",
+			"disabled": 0
+		},
+		{
+			"id": "25",
+			"projectId": 8,
+			"firstName": "Olivia",
+			"lastName": "Wilson",
+			"disabled": 0
+		},
+		{
+			"id": "26",
+			"projectId": 9,
+			"firstName": "Ethan",
+			"lastName": "Moore",
+			"disabled": 0
+		},
+		{
+			"id": "29",
+			"projectId": 12,
+			"firstName": "Mia",
+			"lastName": "Thomas",
+			"disabled": 0
+		}
+	],
+	"devices": [
+		{
+			"deviceId": 1,
+			"projectId": 1,
+			"serialNumber": "RP-3477959384",
+			"id": "7ac9"
+		},
+		{
+			"deviceId": 1,
+			"projectId": 44,
+			"serialNumber": "RP-3477959384",
+			"id": "a189"
+		},
+		{
+			"deviceId": 2,
+			"projectId": 1,
+			"serialNumber": "PSTD-00002",
+			"id": "4bf0"
+		},
+		{
+			"deviceId": 2,
+			"projectId": 4,
+			"serialNumber": "PSTD-00002",
+			"id": "7c2c"
+		},
+		{
+			"deviceId": 2,
+			"projectId": 40,
+			"serialNumber": "PSTD-00002",
+			"id": "d8bb"
+		},
+		{
+			"deviceId": 2,
+			"projectId": 41,
+			"serialNumber": "PSTD-00002",
+			"id": "7b5c"
+		},
+		{
+			"deviceId": 2,
+			"projectId": 42,
+			"serialNumber": "PSTD-00002",
+			"id": "b974"
+		},
+		{
+			"deviceId": 2,
+			"projectId": 35,
+			"serialNumber": "PSTD-00002",
+			"id": "41a8"
+		},
+		{
+			"deviceId": 5,
+			"projectId": 1,
+			"serialNumber": "PSTD-00001",
+			"id": "9f94"
+		},
+		{
+			"deviceId": 5,
+			"projectId": 40,
+			"serialNumber": "PSTD-00001",
+			"id": "141a"
+		},
+		{
+			"deviceId": 5,
+			"projectId": 44,
+			"serialNumber": "PSTD-00001",
+			"id": "5cfa"
+		},
+		{
+			"deviceId": 6,
+			"projectId": 1,
+			"serialNumber": "RP-395538506",
+			"id": "19c1"
+		},
+		{
+			"deviceId": 7,
+			"projectId": 1,
+			"serialNumber": "RP-2312008205",
+			"id": "edf9"
+		},
+		{
+			"deviceId": 7,
+			"projectId": 40,
+			"serialNumber": "RP-2312008205",
+			"id": "a23d"
+		},
+		{
+			"deviceId": 7,
+			"projectId": 41,
+			"serialNumber": "RP-2312008205",
+			"id": "0e38"
+		},
+		{
+			"deviceId": 7,
+			"projectId": 42,
+			"serialNumber": "RP-2312008205",
+			"id": "1a81"
+		},
+		{
+			"deviceId": 8,
+			"projectId": 1,
+			"serialNumber": "PSTD-00003",
+			"id": "1f42"
+		}
+	],
+	"projects": [
+		{
+			"id": "1",
+			"title": "Tec4med",
+			"parentId": null,
+			"beginDate": "2019-04-30T00:00:00.000Z",
+			"expirationDate": "2020-02-01T00:00:00.000Z",
+			"deleted": 0
+		},
+		{
+			"id": "2",
+			"title": "Scalors",
+			"parentId": 1,
+			"beginDate": "2019-05-04T00:00:00.000Z",
+			"expirationDate": "2020-01-01T03:00:00.000Z",
+			"deleted": 0
+		},
+		{
+			"id": "42",
+			"title": "Scalors",
+			"parentId": 1,
+			"beginDate": "2019-05-04T00:00:00.000Z",
+			"expirationDate": "2020-01-01T03:00:00.000Z",
+			"deleted": 0
+		},
+		{
+			"id": "3",
+			"title": "Ciklum",
+			"parentId": 1,
+			"beginDate": "2019-05-01T00:00:00.000Z",
+			"expirationDate": null,
+			"deleted": 0
+		},
+		{
+			"id": "4",
+			"title": "CtGO!",
+			"parentId": 1,
+			"beginDate": "2019-05-02T00:00:00.000Z",
+			"expirationDate": null,
+			"deleted": 0
+		},
+		{
+			"id": "5",
+			"title": "PharmTrans",
+			"parentId": 1,
+			"beginDate": "2019-06-04T00:00:00.000Z",
+			"expirationDate": null,
+			"deleted": 0
+		},
+		{
+			"id": "6",
+			"title": "ProjectX",
+			"parentId": 4,
+			"beginDate": "2019-05-16T00:00:00.000Z",
+			"expirationDate": "2019-05-16T00:00:00.000Z",
+			"deleted": 0
+		},
+		{
+			"id": "7",
+			"title": "ProjectY",
+			"parentId": 4,
+			"beginDate": "2019-05-09T00:00:00.000Z",
+			"expirationDate": "2019-05-17T00:00:00.000Z",
+			"deleted": 0
+		},
+		{
+			"id": "8",
+			"title": "x01221",
+			"parentId": 5,
+			"beginDate": "2019-05-05T00:00:00.000Z",
+			"expirationDate": "2019-05-09T00:00:00.000Z",
+			"deleted": 0
+		},
+		{
+			"id": "9",
+			"title": "x01775",
+			"parentId": 5,
+			"beginDate": "2019-04-18T00:00:00.000Z",
+			"expirationDate": null,
+			"deleted": 0
+		},
+		{
+			"id": "35",
+			"title": "test3",
+			"parentId": 2,
+			"beginDate": "2019-05-06T00:00:00.000Z",
+			"expirationDate": "2019-12-01T00:00:00.000Z",
+			"deleted": 0
+		},
+		{
+			"id": "37",
+			"title": "222",
+			"parentId": 35,
+			"beginDate": "2019-06-10T00:00:00.000Z",
+			"expirationDate": null,
+			"deleted": 0
+		},
+		{
+			"id": "40",
+			"title": "4444",
+			"parentId": 35,
+			"beginDate": "2019-07-27T00:00:00.000Z",
+			"expirationDate": null,
+			"deleted": 0
+		},
+		{
+			"id": "41",
+			"title": "555",
+			"parentId": 35,
+			"beginDate": "2019-07-29T00:00:00.000Z",
+			"expirationDate": null,
+			"deleted": 0
+		},
+		{
+			"id": "42",
+			"title": "C11",
+			"parentId": 3,
+			"beginDate": "2019-07-30T00:00:00.000Z",
+			"expirationDate": null,
+			"deleted": 0
+		},
+		{
+			"id": "44",
+			"title": "test",
+			"parentId": 1,
+			"beginDate": "2019-10-15T00:00:00.000Z",
+			"expirationDate": null,
+			"deleted": 0
+		}
+	]
+}

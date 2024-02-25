@@ -1,0 +1,33 @@
+.item {
+	border: 1px solid #5af7dd;
+	padding: 15px;
+	border-radius: 12px;
+	font-size: 1.1rem;
+
+	margin-top: 1.3rem;
+	width: auto;
+}
+
+.info {
+	font-weight: 700;
+	font-size: 1.6rem;
+	color: #fff;
+	gap: 0.3rem;
+}
+
+.img {
+	width: 60px;
+}
+
+.icon {
+	display: flex;
+	align-items: center;
+}
+
+.ml {
+	margin-left: 6px;
+}
+
+.input {
+	width: 160px;
+}
